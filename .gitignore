@@ -1,0 +1,19 @@
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# App archives and symbols
+*.xcarchive
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace/
