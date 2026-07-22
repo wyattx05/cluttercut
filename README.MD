@@ -1,6 +1,6 @@
 ## Clutter Cut
 
-Clutter cut is an app dedicated to removing similar duplicates of photos in your library.
+ClutterCut is an app dedicated to removing similar duplicates of photos in your library.
 
 So many people take a million photos of the same thing and end up with a bloated camera roll.
 
