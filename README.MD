@@ -9,7 +9,7 @@ Clutter cut groups photos together based on time taken and location and puts the
 ## Screenshots
 <table>
 <tr>
-<td align="center"><img src="Media/Home.png" width="180"></td>
+<td align="center"><img src="Media/" width="180"></td>
 <td align="center"><img src="Media/Swipe.png" width="180"></td>
 <td align="center"><img src="Media/SwipeSelector.png" width="180"></td>
 <td align="center"><img src="Media/Review.png" width="180"></td>
