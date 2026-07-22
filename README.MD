@@ -1,4 +1,4 @@
-## Clutter Cut
+<h1><img src="Media/Appicon.png" width="40" align="center"> Clutter Cut</h1>
 
 Clutter cut is an app dedicated to removing similar duplicates of photos in your library.
 
